@@ -6,4 +6,4 @@ print(myString)
 
 mean_value <-mean(1:530)
 mean_value
-myString
+myStringthere us ya know
